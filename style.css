@@ -1,0 +1,104 @@
+.disply-flex{
+    display: flex;
+}
+.half-width{
+    width: 100%;
+    padding-bottom: 5%;
+    margin-left: 35px;
+    margin-top: 5px;
+}
+.half-width img{
+ width: 50%;
+ padding-left: 25%;
+
+}
+.mission{
+    color: #FFAD5A;;
+
+}
+#mission{
+ background-color   : rgba(79, 157, 166, 0.1);
+     border-radius: 26px;
+     margin-left: 5%;
+     margin-bottom: 5%;
+     padding-left: 3%;
+
+}
+#vission{
+   background-color :rgba(255, 89, 89, 0.1);;
+border-radius: 26px;
+margin-left: 2%;
+margin-right: %;
+margin-bottom: 5%;
+padding-left: 3%;
+}
+#goal{
+ background-color: #FFF4D6;;
+    border-radius: 26px;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    padding-left: 3%;
+}
+#finish{
+    color: #FF5959;;
+}
+a{
+    background-color: #FF5959; ;
+    padding: 15px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: azure;
+    
+    
+
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 80px;
+    font-family: 'Yeseva One', cursive;
+    border-left: 2px solid #FF5959;;
+    padding-left: 10px;
+}
+h2{
+    font-weight: 700;
+    font-size: 48px;
+}
+#develop{
+    padding-right: 10px;
+}
+#hello{
+    text-align: center;
+}
+#lobester{
+    color: azure;
+    
+font-family: 'Lobster Two', cursive;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding-bottom: 5px;
+     
+}
+
+small{
+    color: azure;
+}
+.app{
+    width: 40%;
+}
+span{
+    color: #FF5959;
+}
+#bonus{
+    margin-left: 10%;
+    padding-left: 10px;
+    border-left: 5px solid greenyellow;
+    margin-bottom: 10%;
+}
